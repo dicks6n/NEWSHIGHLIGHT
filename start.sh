@@ -1,4 +1,4 @@
-export NEWS_API_KEY=215272cd63a8416395cd798a3cc477a6
-export SECRET_KEY=1234qwer
+export NEWS_API_KEY=affd85efa7744d1ca432e50dc67957d4
+export SECRET_KEY=qwerty1234
 
 python3.7 manage.py server

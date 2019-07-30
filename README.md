@@ -40,7 +40,7 @@ $ touch instance/config.py
 7. Run the application
 
 ```bash
-$ python3.6 run.py
+$ python3.7 run.py
 ```
 
 
